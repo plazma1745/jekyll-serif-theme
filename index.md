@@ -1,8 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Услуги плазменной резки листового металла в Златоусте
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The
-  theme is fully responsive, blazing fast and artfully illustrated.
+description: Услуги плазменной резки листового металла в Златоусте
 intro_image: images/illustrations/pointing.svg
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
