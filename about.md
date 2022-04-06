@@ -1,7 +1,7 @@
 ---
 title: О нас
 layout: page
-description: About
+description: О нас
 bodyClass: page-about
 
 ---
