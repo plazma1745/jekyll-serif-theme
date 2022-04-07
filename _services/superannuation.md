@@ -1,7 +1,7 @@
 ---
 title: Гибка/формовка пластин с ЧПУ
 date: 2018-11-28T15:14:54.000+10:00
-featured: true
+featured: false
 weight: "5"
 layout: service
 
