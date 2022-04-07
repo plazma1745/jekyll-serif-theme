@@ -1,53 +1,45 @@
 ---
-title: "Superannuation"
-date: 2018-11-28T15:14:54+10:00
+title: Гибка/формовка пластин с ЧПУ
+date: 2018-11-28T15:14:54.000+10:00
 featured: true
-weight: 5
+weight: "5"
 layout: service
+
 ---
+## Гибка/формовка
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+[![175 Ton CNC Accurpress Press Brake](https://img1.wsimg.com/isteam/ip/65285429-1e94-4181-a317-17d509941415/Rocker%2BArm%2B1.png/:/cr=t:6.61%25,l:8.27%25,w:80.65%25,h:80.65%25/rs=w:400,cg:true,m)](https://www.accurpress.com/advantage-overview)
 
-## Ne verba patulosque numen vix libet
+#### Листогибочный пресс Accurpress Advantage с ЧПУ 175 тонн
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+С нашим 175-тонным листогибочным прессом мы можем сгибать/формовать стальные детали. Эта машина имеет длину станины 12 футов и оснащена системой коронки и прецизионной системой зажима инструмента WILA. Этот станок оснащен системой управления ETS 3000, а также задним упором с ЧПУ по 2 осям (R и X). Программирование заданий довольно просто благодаря простой в использовании системе управления. Мы специализируемся на больших объемах работ и соблюдаем допуски в пределах угла изгиба в один градус.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+Спецификации от Accurpress:
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+* Тип: Гидравлический листогибочный пресс
+* Модель № 717512
+* Вместимость (тонн) 175
+* Длина кровати 12
+* Расстояние между рамами 124 дюйма
+* Глубина горловины 10 дюймов
+* Глубина хода 8 дюймов
+* Высота кровати 34 дюйма
+* Ширина крышки кровати 5,5 дюйма
+* Открытие штампа - Ram Up 16 "
+* Открытие штампа - Ram Down 8 "
+* Скорость: быстрый подход/медленный поворот/быстрый возврат 90/24/180 дюймов в минуту
+* Мощность главного двигателя 20 л.с.
+* Габаритные размеры (Д х Ш х В) 168 x 55 x 88 дюймов
+* Вес прибл. (фунтов) 23 000
 
-## Postquam tamen
+#### Инструмент для листогибочных прессов WILA New Standard Premium Precision
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Мы постоянно обновляем нашу библиотеку прецизионных инструментов по мере необходимости. Пакет инструментов, который мы используем, является лучшим в отрасли. В настоящее время у нас есть все инструменты, необходимые для гибки листов толщиной до 5/8 дюйма на всю ширину, которую позволяет грузоподъемность.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+WILA Tooling известна:
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+* Для максимальной точности и производительности гибки
+* Очень высокая грузоподъемность и максимальная долговечность
+* Все несущие и изнашиваемые поверхности полностью закалены на станках с ЧПУ® (около 58 HRC) для максимальной долговечности.
+* Очень качественная отделка
+* Обеспечивает максимальную долгосрочную эффективность
