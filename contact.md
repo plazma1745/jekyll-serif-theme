@@ -1,7 +1,7 @@
 ---
 title: Контакты
 layout: contact
-description: Contact
+description: Контакты
 
 ---
 \+79028634508
