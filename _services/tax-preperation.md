@@ -1,46 +1,39 @@
 ---
-title: "Tax Preperation"
-date: 2018-11-18T12:33:46+10:00
+title: Резка пластин и листов с ЧПУ
+date: 2018-11-18T12:33:46.000+10:00
 featured: true
-weight: 6
+weight: "6"
 layout: service
+
 ---
+Мы специализируемся на плазменной резке с высоким разрешением, используя новейшее и лучшее оборудование и программное обеспечение для сталелитейной промышленности. Мы обслуживаем производителей оригинального оборудования и других производителей стали. Ваш рабочий стол отстал, а производство не справляется с заказами? Мы вас прикрыли! Запросите предложение сегодня!
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+## Резка пластин
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+[![](https://img1.wsimg.com/isteam/ip/65285429-1e94-4181-a317-17d509941415/CERT%208X24%20Plasma%20Table.JPG/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:400,cg:true)](https://www.certmachines.com/)
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+#### CERT Tizona 8'x24' Стол для плазменной записи
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+У нас есть ухоженный и высококачественный плазменный стол с ЧПУ, изготовленный в США отличной компанией в северо-восточном штате Оклахома. Движение стола может достигать допуска +-0,005 дюйма благодаря сервосистемам с постоянной обратной связью. Эта машина известна своей надежностью, повторяемостью и эффективностью.
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+Этот стол оснащен омическими датчиками, приводными системами высокой четкости, автоматическим контролем высоты и всеми другими функциями, присущими высокотехнологичному плазменному столу, используемому для резки листового металла с ЧПУ.
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+Спецификации машин CERT:
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+* Станции: одиночные или двойные
+* Конструкция: Лифтовая направляющая T90/B на напольных стойках.
+* Размер выреза: 8 x 24 фута
+* Столы: автономные водяные с регулируемым уровнем
+* Горелки: XPR300
+* Приводы: Indradrive [CS, подключенный к ](https://www.boschrexroth.com/en/us/products/product-groups/electric-drives-and-controls/servo-drives/compact-drives/indradrive-cs/index)[EtherCAT](https://www.ethercat.org/en/why_use_ethercat.htm)
+* Двигатели: [серия Bosch MSM 031](https://www.boschrexroth.com/ics/cat/?id=&cat=Electric-Drives-and-Controls-Catalog&m=&u=si&o=Desktop&p=g252369,g262880,g264880,g265482&pi=B46A42F0-DA70-6476-3F83991DE1BA2C4F_ICS_82)
+* Коробки передач: планетарные 10:1
+* ЧПУ: [Hypertherm EDGE Connect](https://www.hypertherm.com/en-US/hypertherm/edge/edge-connect/)
+* 22-дюймовый сенсорный дисплей с соотношением сторон 16:9
+* Трек: закрыт на X и Y
+* Стойка: спиральная, 16 DP, 3/4″
+* Лазерный локатор прокола
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+#### Плазменная система Hypertherm XPR 300
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+Плазменный источник питания Hypertherm XPR300 обеспечивает красивую резку более толстых материалов в сочетании с превосходной скоростью резки. Это новейшая и лучшая машина от Hypertherm, качество резки которой приближается к качеству волоконного лазера. При 100% рабочем цикле этот резак может работать весь день без перерывов. В качестве плазмообразующего газа используется только кислород, чтобы обеспечить еще лучшее отсутствие окалины на деталях и готовых к сварке кромках. Этот плазменный резак может резать мягкую сталь, нержавеющую сталь, алюминий и вообще все, что пропускает электрический ток. На низкоуглеродистой стали мы можем резать материал от 22GA до 3 дюймов. Мы можем быстро разметить стальные пластины, чтобы обозначить линии сгиба или для маркировки номера детали. Эта машина может вмещать +/- 0,020 дюйма по сравнению с отраслевым стандартом +/- 0,125 дюйма
