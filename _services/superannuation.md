@@ -1,11 +1,11 @@
 ---
 title: Гибка/формовка пластин с ЧПУ
-date: 2018-11-28T15:14:54.000+10:00
+date: 2018-11-28 05:14:54 Z
 featured: false
-weight: "5"
+weight: '5'
 layout: service
-
 ---
+
 ## Гибка/формовка
 
 [![175 Ton CNC Accurpress Press Brake](https://img1.wsimg.com/isteam/ip/65285429-1e94-4181-a317-17d509941415/Rocker%2BArm%2B1.png/:/cr=t:6.61%25,l:8.27%25,w:80.65%25,h:80.65%25/rs=w:400,cg:true,m)](https://www.accurpress.com/advantage-overview)
